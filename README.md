@@ -1,4 +1,4 @@
-hh# 🐚 minishell — Recreating a Unix Shell
+# 🐚 minishell — Recreating a Unix Shell
 
 ## 🧭 Project Description
 
